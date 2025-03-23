@@ -1,7 +1,7 @@
 # Popcorn Palace - Movie Ticket Booking System
 
-A RESTful API built with Spring Boot for managing movies, showtimes, and ticket bookings.  
-The system supports basic CRUD operations for movies and showtimes, and allows booking seats with proper validation.
+A Spring Boot RESTful API for managing movies, showtimes, and seat bookings.  
+The system supports full CRUD operations for movies and showtimes, as well as secure and validated seat reservations.
 
 ---
 
