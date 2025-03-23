@@ -1,0 +1,12 @@
+services:
+  db:
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_USER: popcorn-palace
+      POSTGRES_PASSWORD: popcorn-palace
+      POSTGRES_DB: popcorn-palace
+    ports:
+      - target: 5432
+        published: 5432
+        protocol: tcp
