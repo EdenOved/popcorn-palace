@@ -1,4 +1,4 @@
-# Popcorn Palace - Instructions 
+# Popcorn Palace - Instructions
 
 This is a Spring Boot-based REST API for managing movies, showtimes, and ticket bookings.
 
