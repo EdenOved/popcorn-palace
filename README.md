@@ -171,5 +171,4 @@ Tests are written to cover the most critical flows in each controller.
 - The database schema is created automatically at runtime (no need for `schema.sql` or `data.sql`).
 - API validations and error handling are implemented (e.g. for duplicates or invalid input).
 - This README summarizes the implemented endpoints and behaviors.
-- This project was developed as part of the AT&T TDP backend assignment.
   
