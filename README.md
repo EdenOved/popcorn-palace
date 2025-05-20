@@ -1,5 +1,4 @@
 # Popcorn Palace - Movie Ticket Booking System  
-**This project was developed as part of the AT&T TDP Backend Assignment.**
 
 A Spring Boot RESTful API for managing movies, showtimes, and seat bookings.  
 It supports full CRUD operations and includes validation to ensure safe and consistent booking behavior.
